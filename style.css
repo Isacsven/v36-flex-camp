@@ -1,9 +1,16 @@
+.kort-rad {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
 .kort {
     padding: 1rem;
     background-color: #f8fafc;
     border: 1px solid #e2e8f0;
     color: #0f172a;
     font-family: sans-serif;
+    flex: 1 1 200px;
 }
 
 .kort img {

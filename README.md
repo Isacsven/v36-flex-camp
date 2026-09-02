@@ -6,6 +6,6 @@ Flexbox passar för aktivitetskorten då ska ligga på en rad (endimensionellt),
 Grid är till för tvådimensionella layout:er, när man behöver rader och kolumner samtidigt.
 
 # Feedback
-FEEDBACK: div istället för semantiska taggar på korten -> ändra till `article`.
-FEEDBACK: inline stil (`style=""`) -> ny klass och ny regel i CSS fil.
-FEEDBACK: margin i .card stilen -> gap på förälder div:en.
+- FEEDBACK: div istället för semantiska taggar på korten -> ändra till `article`.
+- FEEDBACK: inline stil (`style=""`) -> ny klass och ny regel i CSS fil.
+- FEEDBACK: margin i .card stilen -> gap på förälder div:en.

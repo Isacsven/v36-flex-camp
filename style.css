@@ -13,9 +13,23 @@
     color: #0f172a;
     font-family: sans-serif;
     flex: 1 1 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
 }
 
 .kort img {
     max-width: 100%;
     height: auto;
+}
+
+.kort .btn {
+    margin-top: auto;
+}
+
+.btn {
+    padding: 1rem;
+    background-color: cadetblue;
+    text-decoration: none;
+    color: black;
 }
